@@ -10,7 +10,9 @@ import { cn } from "@/lib/utils";
  *
  *     Formato:
  *       { href: "/sua-rota", label: "Nome da Página" },
- */
+ */ { href: "/sobre", label: "Sobre" },
+
+
 const navLinks: { href: string; label: string }[] = [
   // ====== INÍCIO DA ÁREA DE EDIÇÃO COLABORATIVA ======
 
